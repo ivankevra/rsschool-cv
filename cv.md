@@ -7,7 +7,7 @@
 * **Discord:** Ivan Kevra
 
 # About me
-I am 25 years old. I work in a bank. I don't see any future prospects at my current job, so I decided to change the field of activity. My goal is to successfully pass rs school and become a front-end developer. 
+I am 25 years old. 
 
 # My strength:
 + Responsibility
