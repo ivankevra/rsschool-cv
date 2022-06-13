@@ -7,7 +7,8 @@
 * **Discord:** Ivan Kevra
 
 # About me
-I am 25 years old. 
+Hello, my name is Ivan Kevra. I am 25 years old.
+Now I'm studying at RS School on the JS / Front-end course, Stage 0.
 
 # My strength:
 + Responsibility
