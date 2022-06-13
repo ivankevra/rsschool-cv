@@ -27,13 +27,7 @@ footer {
 }
 .footer-section {
     width: 100%;
-    text-align: center;
-    
-}
-.main-container {
-    display: flex;
-    border: 1px solid black;
-    
+    text-align: center;  
 }
 main {
     border: 1px solid black;
